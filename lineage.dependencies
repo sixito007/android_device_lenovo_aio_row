@@ -1,0 +1,27 @@
+[
+  {
+     "remote":       "github",
+     "repository":   "sixito007/android_kernel_lenovo_aio_row",
+     "target_path":  "kernel/lenovo/aio_row",
+     "revision":     "lineage-15"
+  },
+  {
+     "remote":       "github",
+     "repository":   "sixito007/android_hardware_lenovo_aio_row",
+     "target_path":  "hardware/lenovo/aio_row",
+     "revision":     "lineage-15"
+  },
+  {
+     "remote":       "github",
+     "repository":   "sixito007/android_hardware_interfaces_mtk",
+     "target_path":  "hardware/interfaces",
+     "revision":     "lineage-15"
+  },
+  {
+     "remote":       "github",
+     "repository":   "sixito007/proprietary_vendor_lenovo_aio_row",
+     "target_path":  "vendor/lenovo/aio_row",
+     "revision":     "lineage-15"
+  }
+]
+
